@@ -1,1 +1,1 @@
-# Implemnatation of kaprekar-Constant using python
+# implementation of kaprekar-Constant using python
